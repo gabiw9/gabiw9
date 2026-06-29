@@ -1,5 +1,5 @@
-## Gabi Wiggert ([me](https://github.com/gabiw9)) 🏐
-:space_invader: 
+## Gabi Wiggert ([me](https://github.com/gabiw9)) :space_invader:
+
 - 📧 How to reach me: 2024305183@aluno.osorio.ifrs.deu.br
 - 📖 I’m currently learning 
 
