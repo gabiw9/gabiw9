@@ -1,4 +1,7 @@
-## Hi there ([me](https://github.com/gabiw9))
+## Gabi Wiggert ([me](https://github.com/gabiw9)) 🏐
+:space_invader: 
+- 📧 How to reach me: 2024305183@aluno.osorio.ifrs.deu.br
+- 📖 I’m currently learning 
 
 <!--
 **gabiw9/gabiw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
